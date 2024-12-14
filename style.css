@@ -126,7 +126,7 @@ img{
     right: 0.8em;
     width: 2em;
     height: 2em;
-    background-image: url('/mercury.webp');
+    background-image: url('mercury.webp');
     background-size: cover;
 }
 .venus::before{
@@ -134,7 +134,7 @@ img{
     right: 2em;
     width: 2em;
     height: 2em;
-    background-image: url('/venus.jpeg');
+    background-image: url('venus.jpeg');
     background-size: cover;
 }
 .earth::before{
@@ -142,7 +142,7 @@ img{
     right: 0em;
     width: 5em;
     height: 5em;
-    background-image: url('/earth.jpeg');
+    background-image: url('earth.jpeg');
     background-size: cover;
 }
 .moon::before{
@@ -150,7 +150,7 @@ img{
     right: 0.2em;
     width: 1.2em;
     height: 1.2em;
-    background-image: url('/moon.jpeg');
+    background-image: url('moon.jpeg');
     background-size: cover;
 }
 .mars::before{
@@ -158,7 +158,7 @@ img{
     right: 3em;
     width: 3em;
     height: 3em;
-    background-image: url('/mars.jpg');
+    background-image: url('mars.jpg');
     background-size: cover;
 }
 .jupiter::before{
@@ -166,7 +166,7 @@ img{
     right: 3em;
     width: 7em;
     height: 5em;
-    background-image: url('/jupiter.jpg');
+    background-image: url('jupiter.jpg');
     background-size: cover;
 }
 .saturn:before{
@@ -174,7 +174,7 @@ img{
     right: 4em;
     width: 4.5em;
     height: 4.5em;
-    background-image: url('/saturn.jpeg');
+    background-image: url('saturn.jpeg');
     background-size: cover;
 }
 .uranus::before{
@@ -182,7 +182,7 @@ img{
     right: 6.5em;
     width: 4em;
     height: 4em;
-    background-image: url('/uranus.jpeg');
+    background-image: url('uranus.jpeg');
     background-size: cover;
 }
 .neptune::before{
@@ -190,7 +190,7 @@ img{
     right: 8em;
     width: 6em;
     height: 4em;
-    background-image: url('/neptune.jpeg');
+    background-image: url('neptune.jpeg');
     background-size: cover;
 }
 .pluto::before{
@@ -198,7 +198,7 @@ img{
     right: 10em;
     width: 4em;
     height: 4em;
-    background-image: url('/pluto.jpeg');
+    background-image: url('pluto.jpeg');
     background-size: cover;
 }
 
