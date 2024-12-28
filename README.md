@@ -1,5 +1,8 @@
 # solarsystem.github.io
 
+Disclaimer: This project is made with the help of Tutorial Link Given below and also I Change some features and UI . 
+
+
 This program simulates a basic representation of the Solar System. It displays the planets orbiting around the Sun and provides basic information about each planet. The simulation is interactive and can be modified to show various aspects of the Solar System.
 
 ## Features
@@ -20,7 +23,7 @@ Insatallation:
 
 1. Clone the Repository from github .
 2. open the index.html file in your local browser.
-3. Enjoy the Neumorphic calculators.
+3. Enjoy the solar system.
 
 
 License :
